@@ -12,10 +12,8 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
-
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### BlinkIt Online Grocery and Meal App(India)
+The goal was to analyse sales and operational performance while providing clear interactive insights for decision making.I used excel to clean my data and came with overall performance insights based on location,size of the outlet and establishment trend,Product & Category Insights and outlet type insights
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
