@@ -22,8 +22,8 @@ Project Goal
 2. Analyse historical monthly trends of waiting list.
 3. Detailed speciality level and age pofile analysis.
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Maji Ndogo Water Project.
+In a world where access to clean water is a basic human right, the country of Maji Ndogo has faced a dire crisis. The daily struggle for clean water has impacted thousands of lives, with people relying on contaminated wells, shared taps with long queues, and polluted rivers. This report chronicles a project that turned data into action, using SQL to uncover the truth, address corruption, and implement solutions that have transformed the lives of the people in Maji Ndogo.
 
 
 ## 🛠️ Skills
@@ -33,6 +33,3 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
-
-
